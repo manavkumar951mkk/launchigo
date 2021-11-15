@@ -1,0 +1,249 @@
+::-webkit-scrollbar{
+    display: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.d-one{
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+    width: 75%;
+    margin-left: 18%;
+    padding: 20px;
+}
+#logo{
+    width: 120px;
+    height:22vh;
+    margin-left: 100px;
+    float: left;
+}
+.d-two{
+    width: 100%;
+}
+.d-two ul{
+    width: 80%;
+    margin-left: 25%;
+}
+.d-two ul li{
+    display: inline-block;
+    margin:0px 40px;
+    padding-top: 35px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.d-two ul li a{
+    padding: 10px 15px;
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+.d-two li a:hover{
+    background: yellow;
+    color: #000;
+    transition: .9s ease;
+}
+.ct{
+    margin-top: 3%;
+    margin-left: 8%;
+    background-image: url("images/contact.webp");
+    background-size: cover;
+    width: 85%;
+    height: 60vh;
+}
+.cs{
+    height: 60vh;
+    background: rgba(19, 18, 10,.6);
+}
+.h-c{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 8%;
+    color: #fff;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.p-c{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin:0px 20px;
+}
+.d-p{
+    width: 85%;
+    margin-left: 8%;
+    margin-top:5%;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px 0px;
+    line-height: 25px;
+}
+.f{
+    width: 85%;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+.form{
+    padding-left: 50px;
+    font-family: sans-serif;
+}
+.form-p{
+    padding-left: 50px;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+}
+.i-f{
+    margin-top: 3%;
+    margin-left: 8%;
+}
+input{
+    width: 50%;
+    padding: 10px;
+}
+#i-two{
+    width: 50%;
+    padding: 10px;
+    margin-top: 2%;
+}
+textarea{
+    margin-top: 2%;
+    margin-left: 8%;
+    padding: 5px;
+    width: 46%;
+}
+.btn{
+    margin-top: 3%;
+}
+.btn a{
+    background-color: red;
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 8%;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+.btn a:hover{
+    background: rgb(230, 8, 8);
+    color: #fff;
+}
+.end{
+    margin-top:5%;
+    margin-left: 8%;
+    width: 85%;
+    color: #fff;
+    background: #000;
+    padding: 20px;
+}
+#h-end{
+    text-align: center;
+    font-family: sans-serif;
+}
+.last{
+    width: 85%;
+    height: 100vh;
+    margin-left: 8%;
+    background-image: url("images/last.webp");
+    background-size: cover;
+}
+.last-a{
+    padding-top: 100px;
+    padding-left: 10px;
+    width: 25%;
+    height: fit-content;
+    float: left;
+}
+#h-i{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#l-a{
+    margin-top: 10%;
+    margin-left: 2%;
+    font-size: 13px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#l-a a{
+    text-decoration: none;
+    color: #fff;
+}
+#l-a a:hover{
+    color: royalblue;
+}
+.last-b{
+    padding-top: 100px;
+    padding-left: 20px;
+    width: 25%;
+    height: fit-content;
+    float: left;
+}
+#h-ii{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.last-c{
+    padding-top: 100px;
+    padding-left: 10px;
+    width: 25%;
+    height: fit-content;
+    float: left;
+}
+#h-iii{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.last-d{
+    padding-top: 100px;
+    padding-left: 10px;
+    width: 25%;
+    height: fit-content;
+    float: left;
+}
+.copyright{
+    width: 85%;
+    margin-left: 8%;
+    margin-bottom: 2%;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+.c{
+    text-transform: capitalize;
+}
+.d{
+    text-transform: capitalize;
+    padding-top: 10px;
+}
+.ads{
+    width: 85%;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.cly{
+   text-align: center;
+   font-size: 25px;
+   font-weight: bold;
+}
+iframe{
+    margin-top: 3%;
+    width: 100%;
+}
